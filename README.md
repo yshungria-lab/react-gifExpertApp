@@ -1,4 +1,4 @@
 # App GifExpertAPP
 
-This project was an Important for to learn REACT...
+Una pequeña App hecha en React con Hooks, para buscar y mostrar gifs animados.
 
